@@ -4,12 +4,12 @@ The Python Selenium Google Form package is used to automate the completion of Go
 
 <table>
   <tr>
-    <th>GitHub:</th>
-    <td>https://github.com/bot-anica/python_selenium_google_form</td>
+    <th><strong>GitHub:</strong></th>
+    <td><a href="https://github.com/bot-anica/python_selenium_google_form">https://github.com/bot-anica/python_selenium_google_form</a></td>
   </tr>
   <tr>
-    <th>PyPI:</th>
-    <td>https://pypi.org/project/python-selenium-google-form/</td>
+    <th><strong>PyPI:</strong></th>
+    <td><a href="https://pypi.org/project/python-selenium-google-form/">https://pypi.org/project/python-selenium-google-form/</a></td>
   </tr>
 </table>
 

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: python_selenium_google_form
-Version: 0.7.0
+Version: 0.7.1
 Summary: Automate Google Forms
 Description-Content-Type: text/markdown
 Requires-Dist: undetected_chromedriver==3.5.5
@@ -10,6 +10,17 @@ Requires-Dist: setuptools==71.1.0
 # Introduction
 
 The Python Selenium Google Form package is used to automate the completion of Google Forms. This package uses the Google Chrome browser.
+
+<table>
+  <tr>
+    <th>GitHub:</th>
+    <td>https://github.com/bot-anica/python_selenium_google_form</td>
+  </tr>
+  <tr>
+    <th>PyPI:</th>
+    <td>https://pypi.org/project/python-selenium-google-form/</td>
+  </tr>
+</table>
 
 ## Installing
 

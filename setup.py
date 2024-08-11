@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='python_selenium_google_form',
-    version='0.7.1',
+    version='0.7.2',
     packages=find_packages(),
     install_requires=[
         'undetected_chromedriver==3.5.5',
