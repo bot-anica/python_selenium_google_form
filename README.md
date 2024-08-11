@@ -2,6 +2,17 @@
 
 The Python Selenium Google Form package is used to automate the completion of Google Forms. This package uses the Google Chrome browser.
 
+<table>
+  <tr>
+    <th>GitHub:</th>
+    <td>https://github.com/bot-anica/python_selenium_google_form</td>
+  </tr>
+  <tr>
+    <th>PyPI:</th>
+    <td>https://pypi.org/project/python-selenium-google-form/</td>
+  </tr>
+</table>
+
 ## Installing
 
 If you have pip on your system, you can simply install or upgrade the Python bindings:
